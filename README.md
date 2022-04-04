@@ -19,8 +19,12 @@ This is a list of products I find useful for various problem domains.
 
 ## Security:
 
+- [Auth0](https://github.com/auth0): An easy to implement, adaptable authentication and
+  authorization platform.
 - [BenMorel/dev-certificates](https://github.com/BenMorel/dev-certificates): Quickly and easily
   stand up development CAs and sign certificates from them.
+- [osohq/oso](https://github.com/osohq/oso): Batteries-included framework for building authorization
+  in applications, including RBAC policies.
 
 ## Web Frontends:
 
