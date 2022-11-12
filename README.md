@@ -17,6 +17,16 @@ This is a list of products I find useful for various problem domains.
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs): Generate docs
   from Terraform modules in various output formats.
 
+## Reverse Engineering
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger):  Automagically reverse-
+  engineer REST APIs via capturing traffic and generating an OpenAPI spec for it.
+    - When paired with [https://github.com/ioxiocom/openapi-to-fastapi](https://github.com/ioxiocom/openapi-to-fastapi)
+      and [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator),
+      this can be used to quickly create a skeleton backend for any service you can instrument with
+      mitmproxy.
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable
+  intercepting HTTP proxy for penetration testers and software developers.
+
 ## Security:
 
 - [Auth0](https://github.com/auth0): An easy to implement, adaptable authentication and
