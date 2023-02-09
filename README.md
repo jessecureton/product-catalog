@@ -8,6 +8,9 @@ This is a list of products I find useful for various problem domains.
 
 - [penpot/penpot](https://github.com/penpot/penpot): An open-source design & prototyping platform.
   https://penpot.app
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful & consistent open-source
+  icon toolkit toolkit. https://lucide.dev
+
 
 ## Infrastructure:
 
@@ -16,6 +19,15 @@ This is a list of products I find useful for various problem domains.
   in under a minute
 - [terraform-docs/terraform-docs](https://github.com/terraform-docs/terraform-docs): Generate docs
   from Terraform modules in various output formats.
+
+## Manufacturing
+
+- [Shapeways](https://shapeways.com) - 3D printing, injection molding, CNC machining, vacuum
+  casting, sheet metal, machine tooling
+- [PCB Way](https://pcbway.com)
+- [JLCPCB](https://jlcpcb.com)
+- [Ponoko](https://ponoko.com) - Laser cutting, sheet metal, 3d printing, PCB fab, and
+  injection molding
 
 ## Reverse Engineering
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger):  Automagically reverse-
