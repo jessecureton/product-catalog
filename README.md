@@ -11,8 +11,12 @@ This is a list of products I find useful for various problem domains.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful & consistent open-source
   icon toolkit toolkit. https://lucide.dev
 
+## GUI Development
 
-## Infrastructure:
+- [LVGL](https://lvgl.io): Light and powerful open-source embedded GUI library with C and Python
+  bindings.
+
+## Infrastructure
 
 - [infracost/infracost](https://github.com/infracost/infracost): Cloud cost estimation for Terraform
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up): Bootstrap Hashicorp clusters over SSH
@@ -28,6 +32,11 @@ This is a list of products I find useful for various problem domains.
 - [JLCPCB](https://jlcpcb.com)
 - [Ponoko](https://ponoko.com) - Laser cutting, sheet metal, 3d printing, PCB fab, and
   injection molding
+
+## Mapping
+
+- [Overpass Turbo](https://overpass-turbo.eu) - Query language for OpenStreetMap data
+- [OpenStreetBrowser](https://www.openstreetbrowser.org) - Browse open street map data in a rich UI
 
 ## Reverse Engineering
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger):  Automagically reverse-
