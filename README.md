@@ -15,6 +15,8 @@ This is a list of products I find useful for various problem domains.
 
 - [LVGL](https://lvgl.io): Light and powerful open-source embedded GUI library with C and Python
   bindings.
+- [Lopaka Editor](https://lopaka.app/sandbox): A web-based gui editor for several embedded graphics
+  libraries, including Inkplate, Adafruit GFX, and tft_espi.
 
 ## Infrastructure
 
